@@ -1,6 +1,8 @@
 # Ionic Base [![Build Status](https://travis-ci.org/meltuhamy/ionic-base.svg?branch=master)](https://travis-ci.org/meltuhamy/ionic-base)
 A simple base project for Ionic Projects.
 
+For more information, read the [blog post](http://meltuhamy.com/tech/dev/a-better-ionic-starter-app/).
+
 It's the same as the default project from Ionic, but has the following extras: 
 
 * Better file structure
