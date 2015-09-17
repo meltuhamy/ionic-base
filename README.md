@@ -8,7 +8,6 @@ It's the same as the default project from Ionic, but has the following extras:
 * Better file structure
 * Unit test support using karma
 * Better gulp tasks.
-* 
 
 ## Installation
 ```
